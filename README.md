@@ -10,3 +10,10 @@
 ## 機能
 
 - [ ] 蔵書を検索できる nlib_search_books
+
+## インストール
+
+```bash
+uv install
+uv run mcp install
+```
